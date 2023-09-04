@@ -1,0 +1,15 @@
+.light {
+  color: hsl(0, 0%, 10%);
+  background-color: hsl(0, 0%, 85%);
+}
+
+.dark {
+  color: hsl(0, 0%, 90%);
+  background-color: hsl(0, 0%, 20%);
+}
+
+select {
+  padding: 0.25rem !important;
+  color: black !important;
+  border-radius: 0.5rem;
+}
